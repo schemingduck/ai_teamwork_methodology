@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this methodology in your work, please cite it as follows:"
+title: "AI Teamwork Methodology: A Neutral, Reproducible Framework for Multi-Agent Software Engineering"
+version: "1.0"
+date-released: 2025-10-22
+authors:
+  - name: "SchemingDuck"
+    affiliation: "Independent Researcher"
+repository-code: "https://github.com/schemingduck/ai_teamwork_methodology"
+license: "CC-BY-4.0"
+type: software
+url: "https://github.com/schemingduck/ai_teamwork_methodology"
+abstract: >
+  Defines a practical, tool-agnostic framework for orchestrating multiple AI systems to produce validated,
+  fault-tolerant outputs. Emphasizes modular task delegation, strict review chains, reproducibility,
+  and zero-anthropomorphism engineering discipline.
+keywords:
+  - Artificial Intelligence
+  - AI
+  - multi-agent systems
+  - AI software engineering
+  - collaborative AI
+  - reproducible methodology
+  - GPT orchestration
+  - ChatGPT
