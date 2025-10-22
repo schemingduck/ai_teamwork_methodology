@@ -1,0 +1,32 @@
+{
+  "title": "AI Teamwork Methodology: A Neutral, Reproducible Framework for Multi-Agent Software Engineering",
+  "creators": [
+    {
+      "name": "SchemingDuck",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "description": "Defines a practical, tool-agnostic framework for orchestrating multiple AI systems to produce validated, fault-tolerant outputs. Emphasizes modular task delegation, strict review chains, reproducibility, and zero-anthropomorphism engineering discipline.",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "Artificial Intelligence",
+    "AI",
+    "multi-agent systems",
+    "AI software engineering",
+    "collaborative AI",
+    "reproducible methodology",
+    "GPT orchestration",
+    "ChatGPT"
+  ],
+  "upload_type": "publication",
+  "publication_type": "other",
+  "version": "1.0",
+  "publication_date": "2025-10-22",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/schemingduck/ai_teamwork_methodology",
+      "scheme": "url"
+    }
+  ]
+}
