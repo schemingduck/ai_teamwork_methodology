@@ -6,7 +6,7 @@
       "affiliation": "Independent Researcher"
     }
   ],
-  "description": "Defines a practical, tool-agnostic framework for orchestrating multiple AI systems to produce validated, fault-tolerant outputs. Emphasizes modular task delegation, strict review chains, reproducibility, and zero-anthropomorphism engineering discipline.",
+  "description": "Defines a practical, tool-agnostic framework for orchestrating multiple AI systems to produce validated, fault-tolerant outputs. Emphasizes modular task delegation, strict review chains, reproducibility, and zero-anthropomorphism design discipline.",
   "license": "CC-BY-4.0",
   "keywords": [
     "Artificial Intelligence",
@@ -19,7 +19,7 @@
     "ChatGPT"
   ],
   "upload_type": "publication",
-  "publication_type": "other",
+  "publication_type": "method",
   "version": "1.0",
   "publication_date": "2025-10-22",
   "related_identifiers": [
